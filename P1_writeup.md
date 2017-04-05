@@ -30,7 +30,7 @@ The pipeline of the algorithm consisted of 5 steps as following:
  
  Method c. the estimation of slope and bias of the laneline is finished by least square fitting the concatenated points of the line segments
  
- ![alt text](https://github.com/davidsky900/SelfDrivingCar-LaneLine/blob/master/myExamples/imageHough.png)
+ ![alt text](https://github.com/davidsky900/SelfDrivingCar-LaneLine/blob/master/myExamples/imageFinal.png)
 
 
 ## Potential shortcomings
