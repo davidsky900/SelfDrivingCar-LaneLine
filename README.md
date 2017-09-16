@@ -2,7 +2,7 @@
 # Udacity Self-Driving Car Engineer Nanodegree
 # Project: Finding Lane Lines on the Road
 
-## Abstract
+## Project Summary
 
 In this project, a lane line detection algorithm is developed in Python to detect straight lane lines in videos shot by front facing camera in car. 
 
