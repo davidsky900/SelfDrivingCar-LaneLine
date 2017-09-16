@@ -2,11 +2,15 @@
 # Udacity Self-Driving Car Engineer Nanodegree
 # Project: Finding Lane Lines on the Road
 
+---
+
 ## Project Summary
 
 In this project, a lane line detection algorithm is developed in Python to detect straight lane lines in videos shot by front facing camera in car. 
 
 The algorithm uses Canny edge detection and Hough transformation to extract the coefficients of line segments in the image, and use first order curve fitting to approximate the lane lines. The algorithm is implemented and tested on different videos shot during the highway driving, and successfully demonstrated the detection of straight lane lines under different lane line color and lighting conditions.
+
+---
 
 ## Description of the algorithm
 The pipeline of the algorithm consisted of 5 steps as following:
