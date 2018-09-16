@@ -1,4 +1,4 @@
-# Project: Finding Lane Lines on the Road
+# Lane Lines Detection with Classical Computer Vision Method V1
 
 ---
 
