@@ -1,5 +1,4 @@
 # Project: Finding Lane Lines on the Road
-### Udacity Self-Driving Car Engineer Nanodegree
 
 ---
 
@@ -53,3 +52,6 @@ The following are the suggested improvements for current algorithm.
 For issue a, a possible improvement would be to use least square fitting or weighted least square fitting to merge the line segments. 
 
 For issue b, one possible solution is to use higher order polynomial fit step 5 instead of 1st order line fit. Or one can also use generalized Hough transformation in step 4 to detect curves. 
+
+## Disclaimer
+The project is part of study of the Nano-degree of Udacity "Self-Driving Car Engineer". The learning material and the data is provided by Udacity, and the key implementation of the project is carried out by Yi Chen.
